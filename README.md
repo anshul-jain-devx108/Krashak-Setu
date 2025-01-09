@@ -60,7 +60,7 @@ This project is currently not licensed. Please contact the repository owner for 
 
 🌟 Support
 If you need any assistance or want to report an issue, feel free to open an issue in the Issues section. We will try our best to assist you.
----
+
 📱 Connect with Us
 GitHub
 LinkedIn

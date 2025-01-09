@@ -1,7 +1,3 @@
-I currently don't have the capability to directly update files in your repository. You can copy the generated README.md content and manually update the file in your repository.
-
-Here is the updated content for your README.md file:
-
 ---
 
 # Krashak-Setu

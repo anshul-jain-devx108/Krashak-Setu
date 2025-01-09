@@ -1,15 +1,17 @@
----
+---# Krashak-Setu 🌾
 
-# Krashak-Setu
+Welcome to **Krashak-Setu**, a mobile application designed to empower farmers by providing them with the right tools, resources, and information. Built with **TypeScript** (80.4%) and **JavaScript** (19.6%), the app aims to make farming more efficient and accessible.
 
-Krashak-Setu is a mobile application aimed at providing valuable resources and tools for farmers. The project is primarily built using TypeScript (80.4%) and JavaScript (19.6%).
+![Krashak Setu Banner](https://example.com/banner-image.png)  <!-- Replace with actual image -->
 
-## Features
+## 🚀 Features
 
-- **User-Friendly Interface:** Easy navigation and accessibility for farmers.
-- **Real-Time Updates:** Provides the latest information and updates relevant to farming.
-- **Multilingual Support:** Supports multiple languages to cater to a diverse user base.
-
+- **User-Friendly Interface:** Simple, intuitive, and accessible for farmers of all backgrounds.
+- **Real-Time Updates:** Receive live information on farming, weather, market trends, and more.
+- **Multilingual Support:** Multiple languages to ensure no farmer is left behind, ensuring inclusivity.
+- **Secure Authentication:** Easy and secure login via OTP, keeping user data safe.
+- **Personalized Dashboard:** Custom notifications and updates relevant to the farmer’s location and needs.
+- **Integrated Payment Gateway:** For transactions related to farming tools, subsidies, and more.
 ## Installation
 
 To install and run the project locally, follow these steps:

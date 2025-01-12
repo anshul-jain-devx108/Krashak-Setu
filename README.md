@@ -1,6 +1,6 @@
 Krashak-Setu 🌾
 
-Welcome to **Krashak-Setu**, a mobile application designed to empower farmers by providing them with the right tools, resources, and information. Built with **TypeScript** (80.4%) and **JavaScript** (19.6%), the app aims to make farming more efficient and accessible.
+Welcome to **Krashak-Setu**, a mobile app designed to empower farmers by providing them with the right tools, resources, and information. Built with **TypeScript** (80.4%) and **JavaScript** (19.6%), the app aims to make farming more efficient and accessible.
 
 ![Krashak Setu Banner](https://example.com/banner-image.png)  <!-- Replace with actual image -->
 

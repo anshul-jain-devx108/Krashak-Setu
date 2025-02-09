@@ -8,10 +8,8 @@ Welcome to **Krashak-Setu**, a mobile application designed to empower farmers by
 
 - **User-Friendly Interface:** Simple, intuitive, and accessible for farmers of all backgrounds.
 - **Real-Time Updates:** Receive live information on farming, weather, market trends, and more.
-- **Multilingual Support:** Multiple languages to ensure no farmer is left behind, ensuring inclusivity.
 - **Secure Authentication:** Easy and secure login via OTP, keeping user data safe.
 - **Personalized Dashboard:** Custom notifications and updates relevant to the farmer’s location and needs.
-- **Integrated Payment Gateway:** For transactions related to farming tools, subsidies, and more.
 ## Installation
 
 To install and run the project locally, follow these steps:
